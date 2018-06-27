@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-blog-template",
+  "version": "1.0.0",
+  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shortdiv/nuxt-blog-template.git"
+  },
+  "author": "Divya Sasidharan",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^1.4.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/router": "^1.0.1",
+    "@nuxtjs/axios": "^5.3.1",
+    "@nuxtjs/blog": "0.0.1-6"
+  }
+}

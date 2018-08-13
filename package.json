@@ -1,7 +1,7 @@
 {
   "name": "nuxt-blog-template",
   "version": "1.0.0",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "A starter repository for a blog web site using the Nuxt static site generator.",
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
@@ -21,6 +21,6 @@
   "devDependencies": {
     "@nuxtjs/router": "^1.0.1",
     "@nuxtjs/axios": "^5.3.1",
-    "@nuxtjs/blog": "0.0.1-6"
+    "@nuxtjs/blog": "https://github.com/shortdiv/blog-module/tarball/temporary-fix/"
   }
 }
